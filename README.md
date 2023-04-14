@@ -7,8 +7,8 @@
 
 
 ### Languages and Tools
-![C++](https://img.shields.io/badge/-<C++>-2F4F4F??style=for-the-badge&logo=C%2b%2b)
-![Python](https://img.shields.io/badge/-<Python>-2F4F4F??style=for-the-badge&logo=python)
-![VScode](https://img.shields.io/badge/-<VScode>-2F4F4F??style=for-the-badge&logo=VisualStudiocode)
+![C++](https://img.shields.io/badge/-<C++>-FFE4E1??style=for-the-badge&logo=C%2b%2b&logoColor=00BFFF)
+![Python](https://img.shields.io/badge/-<Python>-FFE4E1??style=for-the-badge&logo=python)
+![VScode](https://img.shields.io/badge/-<VScode>-FFE4E1??style=for-the-badge&logo=VisualStudiocode&logoColor=4169E1)
 
-Socials
+### Socials
