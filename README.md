@@ -47,7 +47,7 @@
 <br>
 <div align=leading>
     
-  <img align="right" align="center" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+  <img align="right" width=340 align="center" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
   <img width=340 src="https://streak-stats.demolab.com/?user=yerass11&count_private=true&theme=outrun&border_radius=16" alt="streak stats"/>
 <br>
