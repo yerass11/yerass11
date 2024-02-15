@@ -49,9 +49,9 @@
     
   <img align="right" align="center" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
-  <img width=350 src="https://streak-stats.demolab.com/?user=yerass11&count_private=true&theme=outrun&border_radius=16" alt="streak stats"/>
+  <img width=340 src="https://streak-stats.demolab.com/?user=yerass11&count_private=true&theme=outrun&border_radius=16" alt="streak stats"/>
 <br>
-  <img width=350 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yerass11&layout=compact&theme=chartreuse-dark&border_radius=16&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=340 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yerass11&layout=compact&theme=chartreuse-dark&border_radius=16&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 
 </div>
