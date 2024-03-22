@@ -53,8 +53,11 @@
   <img width=340 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=yerass11&layout=compact&theme=chartreuse-dark&border_radius=16&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   
 </div>
-
-<br/><br/>
+<div align="center">
+<br/>
+ <em><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</b></em>
+<br/>
+</div>
 <hr/>
 
 <br/>
