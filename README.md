@@ -34,7 +34,7 @@
 </div>
 
  <hr/>
-
+<!--
 <div align="left">
 
 ```swift
@@ -50,7 +50,7 @@ let yerass11 = Yerassyl(
 };
 ```
 </div>
-
+-->
 
 
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
