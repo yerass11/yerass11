@@ -1,17 +1,22 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salem,+Alem!+👋;+I'm+Saiman+Yerassyl!;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira&weight=600&size=25&duration=3000&pause=700&color=F6F715&center=true&repeat=false&random=false&width=435&lines=Saiman+Yerassyl" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">Currently I am studying Bachelor’s Degree in Information Technology at the Kazakh British Technical University(🇰🇿🇬🇧).</h3>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira&weight=600&size=25&duration=3000&pause=700&color=F6F715&center=true&random=false&width=435&lines=iOS+Developer;Always+learning+new+things;Make+life+better+for+everyone" alt="iOS Developer" /></a>
+</p>
+
+<!-- <h3 align="center">Currently I am studying Bachelor’s Degree in Information Technology at the Kazakh British Technical University(🇰🇿🇬🇧).</h3> -->
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
  
  🌱 I’m currently learning **Swift at [nFactorial School](https://www.nfactorial.school)**
  
  </div>
-
+-->
 <div align="center"> 
   <a href="mailto:erasylsaiman2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -29,6 +34,24 @@
 </div>
 
  <hr/>
+
+<div align="left">
+
+```swift
+let yerass11 = Yerassyl(
+    pronouns: ["He", "Him"],
+    code: ["Swift", "Python", "C++", "Java"],
+    askMeAbout: ["app dev", "tech", "web dev", "football", "math"],
+    leetcode: [],
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+)
+};
+```
+</div>
+
+
 
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
