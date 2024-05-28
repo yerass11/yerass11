@@ -13,7 +13,7 @@
 
 <!-- <div align="center">
  
- 🌱 I’m currently learning **Swift at [nFactorial School](https://www.nfactorial.school)**
+ 🌱 I’m currently learning **Swift at [nFactorial School](https://www.nfactorial.school) **
  
  </div>
 -->
