@@ -56,7 +56,7 @@ let yerass11 = Yerassyl(
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=swift,cpp,java,python,django,postgres,css,html,js" /><br>
+    <img src="https://skillicons.dev/icons?i=swift,cpp,java,python,django,postgres,css,html,js,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm,git,github,postman,figma" /><br>
 </div>
 
