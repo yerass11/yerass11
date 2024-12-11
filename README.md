@@ -7,50 +7,28 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira&weight=600&size=25&duration=3000&pause=700&color=F6F715&center=true&random=false&width=435&lines=iOS+Developer;Always+learning+new+things;Make+life+better+for+everyone" alt="iOS Developer" /></a>
 </p>
 
-<!-- <h3 align="center">Currently I am studying Bachelor’s Degree in Information Technology at the Kazakh British Technical University(🇰🇿🇬🇧).</h3> -->
-
 <br/>
 
-<!-- <div align="center">
- 
- 🌱 I’m currently learning **Swift at [nFactorial School](https://www.nfactorial.school) **
- 
- </div>
--->
 <div align="center"> 
   <a href="mailto:erasylsaiman2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  
   <a href="https://linkedin.com/in/yerassyl-saiman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  
 <div align="center"> 
   <a href="https://t.me/ais1ee">
     <img src="https://img.shields.io/badge/telegram-333333?style=for-the-badge&logo=telegram&logoColor=blue" />
   </a>
+    
   <a href="https://leetcode.com/ais1e/">
     <img src="https://img.shields.io/badge/LeetCode-333333?style=for-the-badge&logo=leetcode&logoColor=#FFA116" target="_blank" />
   </a>
 </div>
-
  <hr/>
-<!--
-<div align="left">
 
-```swift
-let yerass11 = Yerassyl(
-    pronouns: ["He", "Him"],
-    code: ["Swift", "Python", "C++", "Java"],
-    askMeAbout: ["app dev", "tech", "web dev", "football", "math"],
-    leetcode: [],
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-)
-};
-```
-</div>
--->
 
 
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -78,8 +56,13 @@ let yerass11 = Yerassyl(
 </div>
 <div align="center">
 <br/>
-<br/>
-</div>
 <hr/>
-
 <br/>
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+
+</div>
+
+
+
+
