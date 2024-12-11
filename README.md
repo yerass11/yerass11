@@ -51,8 +51,6 @@
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 <div align="left">
-
-https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white
     
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
