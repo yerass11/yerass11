@@ -54,7 +54,7 @@
     
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Swift](https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white)](swift.org/) | [![PROJECT_NAME](https://img.shields.io/static/v1?label=&message=PROJECT-NAME&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](project_link) |
+| [![Swift](https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white)](swift.org/) | [![Delta Tour KZ](https://img.shields.io/static/v1?label=&message=Delta_Tour_KZ&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/yerass11/Delta_tour_kz.git) |
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![PROJECT-NAME](https://img.shields.io/static/v1?label=&message=PROJECT-NAME&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](PROJECT-link) |
 | [![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF)](https://fastapi.tiangolo.com/) | [![PROJECT-NAME](https://img.shields.io/static/v1?label=&message=PROJECT-NAME&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](PROJECT-LINK)  |
 | [![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=FFFFFF)](https://www.djangoproject.com/) | [![PROJECT-NAME](https://img.shields.io/static/v1?label=&message=PROJECT-NAME&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](PROJECT-LINK) |
