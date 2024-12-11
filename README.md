@@ -35,21 +35,38 @@
 </div>
  <hr/>
 
+<!--
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=swift,cpp,java,python,django,postgres,css,html,js,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,pycharm,git,github,postman,figma" /><br>
 </div>
-
+-->
 <br/>
 
 </div>
 
 <hr/>
 
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+<div align="left">
 
+https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white
+    
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| [![Swift](https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white)](swift.org/) | [![PROJECT_NAME](https://img.shields.io/static/v1?label=&message=PROJECT-NAME&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](project_link) |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![PROJECT-NAME](https://img.shields.io/static/v1?label=&message=PROJECT-NAME&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](PROJECT-link) |
+| [![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF)](https://fastapi.tiangolo.com/) | [![PROJECT-NAME](https://img.shields.io/static/v1?label=&message=PROJECT-NAME&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](PROJECT-LINK)  |
+| [![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=FFFFFF)](https://www.djangoproject.com/) | [![PROJECT-NAME](https://img.shields.io/static/v1?label=&message=PROJECT-NAME&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](PROJECT-LINK) |
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=FFFFFF)](https://javascript.info/) | [![anuragsingh.dev](https://img.shields.io/static/v1?label=&message=anuragsingh.dev&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/anuragsingh.dev) |
+| [![Problem solving](https://img.shields.io/static/v1?label=&message=Problem%20solving&color=FFA116&logo=LeetCode&logoColor=FFFFFF)](https://hackattic.com/u/ashleymavericks) | [![leetcoding](https://img.shields.io/static/v1?label=&message=leetcoding&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/leetcoding) |
+| [![Spark AR](https://img.shields.io/static/v1?label=&message=Spark%20AR&color=FF5C83&logo=Spark%20AR&logoColor=FFFFFF)](https://sparkar.facebook.com/ar-studio/) | [![AR-PiZero](https://img.shields.io/static/v1?label=&message=AR-PiZero&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/AR-PiZero) |
+| [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
+</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
