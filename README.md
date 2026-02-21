@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/telegram-333333?style=for-the-badge&logo=telegram&logoColor=blue" />
   </a>
     
-  <a href="https://leetcode.com/ais1e/">
+  <a href="https://leetcode.com/ais1ee/">
     <img src="https://img.shields.io/badge/LeetCode-333333?style=for-the-badge&logo=leetcode&logoColor=#FFA116" target="_blank" />
   </a>
 </div>
